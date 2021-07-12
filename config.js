@@ -10,6 +10,6 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'bởi vì cá heo đz, iu em và em iu anh nhiều nhiều',
     mess: 'anh cx iêu em nhiều thật là nhiều',
-    messDesc: 'hẹn em 31/7/2021 đặt báo thức thịt anh nha',
+    messDesc: 'hẹn em 31/7/2021 đặt báo thức thịt anh nhaa',
     btnAccept: 'Okiiiii lun <3', 
 }
